@@ -1,16 +1,19 @@
 ### Nicolás Nieto 👋
 
-<!--
-**jnnieto/jnnieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+> <p>I am a software development student passionate about the world of technology, eager to continue learning new development tools that strengthen my professional skills. </p>
 
-Here are some ideas to get you started:
+## You can find me in..
+> <a href="https://twitter.com/niconieto3">
+ > <img align="left" alt="Johann Nieto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+></a>
+> <a href="https://www.facebook.com/johann.nieto.15">
+ > <img align="left" alt="Johann Nieto | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+></a>
+> <a href="https://www.twitch.tv/jnnietocard15">
+ > <img align="left" alt="Johann Nieto | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+></a>
+> <a href="https://www.linkedin.com/in/johann-nicol%C3%A1s-nieto-c%C3%A1rdenas-7629881b3/">
+ > <img align="left" alt="Johann Nieto | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
