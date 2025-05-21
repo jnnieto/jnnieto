@@ -1,6 +1,6 @@
 ### Nicolás Nieto 👋
 
-💻 I'm Nicolás, a 21 years old web developer from Colombia. 🔑
+💻 I'm Nicolás, a 24 years old web developer from Colombia. 🔑
 
 ## About me
 
